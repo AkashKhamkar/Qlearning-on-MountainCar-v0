@@ -15,3 +15,4 @@ $pip install -r requirements.txt
 4. Run stock_price_prediction.py
 
 ## Expected Output Example:
+![OUTPUT](https://github.com/AkashKhamkar/Stock_Price_Prediction/blob/master/images/output.PNG)
