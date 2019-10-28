@@ -15,4 +15,4 @@ $pip install -r requirements.txt
 4. Run stock_price_prediction.py
 
 ## Expected Output Example:
-![OUTPUT](https://github.com/AkashKhamkar/Stock_Price_Prediction/blob/master/images/output.PNG)
+![OUTPUT](https://github.com/AkashKhamkar/Qlearning-on-MountainCar-v0/blob/master/epsilon%3D0.75%20%26%2010k%20episodes/using%20epsilon%3D0.75%20for%2010k%20episodes%20only.png)
