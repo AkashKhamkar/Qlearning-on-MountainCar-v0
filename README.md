@@ -16,3 +16,4 @@ $pip install -r requirements.txt
 
 ## Expected Output Example:
 ![OUTPUT](https://github.com/AkashKhamkar/Qlearning-on-MountainCar-v0/blob/master/epsilon%3D0.75%20%26%2010k%20episodes/using%20epsilon%3D0.75%20for%2010k%20episodes%20only.png)
+*(This is output is in the case of usinf epsilon=0.75 and 10k episodes)*
