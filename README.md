@@ -13,3 +13,5 @@
 $pip install -r requirements.txt
 ```
 4. Run stock_price_prediction.py
+
+## Expected Output Example:
